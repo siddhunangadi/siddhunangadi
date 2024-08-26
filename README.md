@@ -1,31 +1,31 @@
 # Hi there! I'm Siddhu 👋
 
-## 🧑‍💻 About Me
+- **Sophomore** at **Nitte Institute of Technology**, Bengaluru, India
+- **Aiming** for a role in a top multinational company as a **software engineer**
 
-I'm Siddhu, a **sophomore**  **@Nitte Institute of Technology** in Bengaluru, India. As an aspiring software engineer, I’m passionate about **full-stack development** and **UI/UX design**
 ## 🔧 Current Projects
 
-- **README Builder Software**: Crafting a tool to automatically generate README files from project descriptions, aiming to simplify documentation and enhance project visibility.
+- **README Builder Software**: Creating a tool to generate README files automatically.
 
 ## 🌱 Learning Journey
 
-- **Full Stack Web Development**: Deepening my knowledge of technologies such as ReactJS, NodeJS, and MongoDB to build robust and scalable web applications.
+- **Full Stack Web Development**: Gaining expertise in ReactJS, NodeJS, and MongoDB.
 
 ## 🌐 Collaboration Goals
 
-I'm looking for opportunities to work on:
-- **Innovative Web Development Projects**
-- **Advanced Software Development Projects**
+- **Looking for** collaboration on:
+  - Web Development Projects
+  - Advanced Software Development Projects
 
 ## 🚀 Future Aspirations
 
-I aim to join a leading multinational company where I can apply my skills in **software engineering** and stay at the forefront of **emerging technologies**.
+- **Goal**: Join a leading multinational company to apply skills in software engineering and emerging tech.
 
 ## 📫 Reach Out
 
-- Email: siddhuangadi22@gmail.com
-- LinkedIn: www.linkedin.com/in/siddhu-n-angadi
-- GitHub: [[View my projects](#)](https://github.com/siddhunangadi)
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [Connect with me](#)
+- **GitHub**: [View my projects](#)
 
 ## 🛠️ Technologies & Tools
 
@@ -36,4 +36,4 @@ I aim to join a leading multinational company where I can apply my skills in **s
 
 ---
 
-*I’m passionate about technology and eager to contribute to a global tech leader. Let's connect and explore new opportunities!*
+*Let's connect and build something amazing together!*
