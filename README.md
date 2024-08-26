@@ -23,7 +23,7 @@ I aim to join a leading multinational company where I can apply my skills in **s
 
 ## 📫 Reach Out
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: siddhuangadi22@gmail.com
 - LinkedIn: www.linkedin.com/in/siddhu-n-angadi
 - GitHub: [[View my projects](#)](https://github.com/siddhunangadi)
 
