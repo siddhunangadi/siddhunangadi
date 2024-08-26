@@ -2,8 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm Siddhu, a **sophomore** at **Nitte Institute of Technology** in Bengaluru, India. As an aspiring software engineer, I’m passionate about **full-stack development** and **UI/UX design**, and I aim to work with top multinational companies to tackle complex challenges and drive technological advancements.
-
+I'm Siddhu, a **sophomore**  **@Nitte Institute of Technology** in Bengaluru, India. As an aspiring software engineer, I’m passionate about **full-stack development** and **UI/UX design**
 ## 🔧 Current Projects
 
 - **README Builder Software**: Crafting a tool to automatically generate README files from project descriptions, aiming to simplify documentation and enhance project visibility.
