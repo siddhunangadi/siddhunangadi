@@ -12,8 +12,7 @@
 
 ## 🤝 Collaboration Opportunities
 
-- **Open to collaborating** on:
-  - Web Development Projects
+- **Open to collaborating** on: Web Development Projects
 
 ## 🌟 Future Aspirations
 
