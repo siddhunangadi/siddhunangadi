@@ -1,7 +1,6 @@
 # Hello! I'm Siddhu 👋
 
-- **Sophomore** at **Nitte Institute of Technology**, Bengaluru, India
-- **Aiming** to work at a leading multinational company as a **software engineer**
+- **Sophomore** **@Nitte Institute of Technology**, Bengaluru, India
 
 ## 🚀 Current Projects
 
