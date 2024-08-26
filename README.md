@@ -14,7 +14,6 @@
 
 - **Open to collaborating** on:
   - Web Development Projects
-  - Software Development Projects
 
 ## 🌟 Future Aspirations
 
